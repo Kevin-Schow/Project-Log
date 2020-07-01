@@ -5,5 +5,5 @@ Date -- Hours -- Description
 ===================================
 
 
-6/30/20 -- 2 hours -- Continued discord bot(welcome message, 
+6/30/20 -- 8 hours -- Continued discord bot(welcome, moderation, cogs, rewrote commands, restructure bot SQLite)
 6/22/20 -- 4 hours -- Started discord bot(setup, add/remove/kick/ban/unban, error check, ping, 8ball, clear, cog, listening to)
