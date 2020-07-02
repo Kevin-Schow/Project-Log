@@ -5,5 +5,6 @@ Date -- Hours -- Description
 ===================================
 
 
-6/30/20 -- 8 hours -- Continued discord bot(welcome, moderation, cogs, rewrote commands, restructure bot SQLite)
-6/22/20 -- 4 hours -- Started discord bot(setup, add/remove/kick/ban/unban, error check, ping, 8ball, clear, cog, listening to)
+7/1/20  -- 2 hours -- Leveling cog (SQLite DB browser, leveling, insert and retrieve SQL data, error handling, a lot of bug fixes)
+6/30/20 -- 10 hours -- Continued discord bot, cogs(welcome, moderation, cogs, rewrote commands, restructure bot, SQLite)
+6/24/20 -- 4 hours -- Started discord bot(setup, add/remove/kick/ban/unban, error check, ping, 8ball, clear, cog, listening to)
