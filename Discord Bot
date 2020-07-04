@@ -4,7 +4,7 @@ Discord Bot
 Date -- Hours -- Description
 ===================================
 
-7/4/20  --    hours -- TODO: restructure quote bot format, add pictures, expand bot to multiple categories
+7/4/20  --  2 hours -- Restructure quote bot format, add pictures, expand bot to multiple categories
 7/3/20  --  5 hours -- Quote Bot, formatting, shutdown command, bot testing, notifications
 7/2/20  --  6 hours -- Server setup, emojis, roles, permissions, react cog, channels
 7/1/20  --  8 hours -- Leveling cog, SQLite DB browser, leveling, insert and retrieve SQL data, rework error handling, a lot of bug fixes
