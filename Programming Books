@@ -4,24 +4,27 @@ A list of every book that I used on my journey towards becoming a computer progr
 
 Computer Science
 
-    A Programmer's Guide To Computer Science        --  William M. Springer
+    Structures Interpretations of Computer Programs     --  Abelson and Sussman
+    A Programmer's Guide To Computer Science            --  William M. Springer
+    Algorithms For Dummies                              --  Mueller Massaron
     
     
     
 Career
 
-    Cracking  The Coding Interview                  --  Gayle Laakmann Mcdowell
+    The Pragmatic Programmer                            --  David Thomas
+    Cracking The Coding Interview                       --  Gayle Laakmann Mcdowell
 
 
 Python
 
-    Automate the Boring Stuff with Python           --  Al Sweigart
-    Learn Python 3 the Hard Way                     --  Zed A Shaw
-    Python For Everybody                            --  Charles Severance
-    Illustrated Guide to Python 3                   --  Matt Harrison
-    Head First Python                               --  Paul Barry
-    Think Like A Programmer                         --  V. Anton Spraul
-    Python 7 Books All in One for Dummies           --  Shovic Simpson
+    Automate the Boring Stuff with Python               --  Al Sweigart
+    Learn Python 3 the Hard Way                         --  Zed A Shaw
+    Python For Everybody                                --  Charles Severance
+    Illustrated Guide to Python 3                       --  Matt Harrison
+    Head First Python                                   --  Paul Barry
+    Think Like A Programmer                             --  V. Anton Spraul
+    Python 7 Books All in One for Dummies               --  Shovic Simpson
         - Getting Started with Python
         - Understanding Python Building Blocks
         - Working with Python Libraries
@@ -33,10 +36,10 @@ Python
     
 C++
 
-    Programming: Principles and Practice Using C++  --  Bjarne Stroustrup
-    Starting Out with C++: Early Objects            --  Tony Gaddis
+    Programming: Principles and Practice Using C++      --  Bjarne Stroustrup
+    Starting Out with C++: Early Objects                --  Tony Gaddis
 
 
 SQL
 
-    Learn SQL In One Day And Learn It Well          --  Jamie Chan
+    Learn SQL In One Day And Learn It Well              --  Jamie Chan
